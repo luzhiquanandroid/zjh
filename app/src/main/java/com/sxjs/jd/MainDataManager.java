@@ -73,4 +73,5 @@ public class MainDataManager extends BaseDataManager{
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribeWith(consumer);
     }
+    //添加注解
 }
