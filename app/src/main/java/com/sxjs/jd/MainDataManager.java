@@ -74,4 +74,5 @@ public class MainDataManager extends BaseDataManager{
                 .subscribeWith(consumer);
     }
     //添加注解
+    //测试
 }
